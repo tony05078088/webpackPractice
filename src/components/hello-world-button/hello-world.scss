@@ -1,0 +1,16 @@
+$font-size: 20px;
+$button-background-color:green;
+$background-color:red;
+.hello-button {
+  font-size: $font-size;
+  padding:7px 15px ;
+  background-color: $background-color;
+  color:teal;
+  outline: none;
+}
+
+.p-text {
+  color: $button-background-color;
+  font-weight: bold;
+  
+}
